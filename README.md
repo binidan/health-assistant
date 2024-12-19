@@ -1,7 +1,3 @@
-Here’s a short and clear README with instructions to run your application:
-
----
-
 # Application Setup and Run Instructions
 
 ## Prerequisites
@@ -45,10 +41,3 @@ Here’s a short and clear README with instructions to run your application:
 4. The backend will run at [http://localhost:5000](http://localhost:5000).
 
 ---
-
-## Connecting Frontend and Backend
-Ensure both the frontend and backend servers are running. The frontend will make API requests to the backend. Adjust the API URLs in the frontend code if needed.
-
---- 
-
-Let me know if you'd like to include additional instructions or details!
